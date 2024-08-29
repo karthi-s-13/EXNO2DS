@@ -125,4 +125,4 @@ sns.pairplot(df)
 
 
 # RESULT
-Hence, performing Exploratory Data Analysis on the given data set is successful
+Hence, performing Exploratory Data Analysis on the given data set is successful.
