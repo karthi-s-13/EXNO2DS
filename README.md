@@ -25,15 +25,21 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 ## CODING AND OUTPUT
         <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
 
+![Screenshot 2024-10-23 173254](https://github.com/user-attachments/assets/448ced11-1100-4fce-a896-3d5c6f7ec70e)
+![Screenshot 2024-10-24 215614](https://github.com/user-attachments/assets/47c6fb11-8f77-49d0-8a9a-0492c2c69d98)
+![Screenshot 2024-10-24 215628](https://github.com/user-attachments/assets/a002c0f0-9cbd-408c-8d1a-aa0e814f52fe)
+![Screenshot 2024-10-24 215650](https://github.com/user-attachments/assets/7f9841c8-1804-4814-8daf-f6f2cfb3028d)
+![Screenshot 2024-10-24 215703](https://github.com/user-attachments/assets/7aecbcc5-4658-4557-944f-eb67c9c15c4f)
+![Screenshot 2024-10-24 215720](https://github.com/user-attachments/assets/442916f3-acfb-4096-a464-b4c71d013286)
+![Screenshot 2024-10-24 215733](https://github.com/user-attachments/assets/f7067792-d36d-4cc8-88f4-3ffe0c254af4)
+![Screenshot 2024-10-24 215744](https://github.com/user-attachments/assets/eebe30fb-25f6-4485-b7ad-b96265515bd5)
+![Screenshot 2024-10-24 215757](https://github.com/user-attachments/assets/3984781d-7b57-4bc5-949d-9031fd67e630)
+![Screenshot 2024-10-24 215807](https://github.com/user-attachments/assets/a15bc58c-1d07-4ab8-a8c6-4f72b13603ef)
+![Screenshot 2024-10-24 215814](https://github.com/user-attachments/assets/6823a860-c2c6-4a4f-851e-cbc8ecdd2511)
+![Screenshot 2024-10-24 215851](https://github.com/user-attachments/assets/4a61fbf5-7a92-4760-a4f0-a607b365a4ad)
+![Screenshot 2024-10-24 215925](https://github.com/user-attachments/assets/fe897668-5611-4302-8a09-f2f479f7f960)
 
-![Screenshot 2024-10-11 110246](https://github.com/user-attachments/assets/701d8da8-5d8f-43bb-a54e-bac722748930)
-![Screenshot 2024-10-11 110306](https://github.com/user-attachments/assets/233df8a4-1e51-4183-9cb6-1f57aee3ea70)
-![Screenshot 2024-10-11 110323](https://github.com/user-attachments/assets/10fdaf4e-2fbb-4e64-a51c-8975c78fade5)
-![Screenshot 2024-10-11 110338](https://github.com/user-attachments/assets/dd1d0ac9-7e68-4f3a-b67c-41e4ca65c124)
-![Screenshot 2024-10-11 110354](https://github.com/user-attachments/assets/816392e7-6b73-4fa7-942f-43be7a83cadf)
-![Screenshot 2024-10-11 110409](https://github.com/user-attachments/assets/da78818a-f943-4ed7-a86b-5dc3ee7abed9)
-![Screenshot 2024-10-11 110429](https://github.com/user-attachments/assets/8d5613fd-2822-4e69-a4d1-c67d665684fe)
-![Screenshot 2024-10-11 110454](https://github.com/user-attachments/assets/58915e11-0f8e-4597-ae0f-e8be44435cef)
+
 
 
 
